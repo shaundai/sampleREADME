@@ -29,7 +29,7 @@ Whether you worked with a group and what it was like
 
 Being honest about obstacles/challenges you faced and how you overcame them.  We all have challenges when we're learning something new!
 
-Some key learnings:
+Bulleted list with other key learnings:
 
     * Learning 1
     * Learning 1
