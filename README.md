@@ -21,15 +21,15 @@ Only add this section if the project is incomplete.  If project is still in deve
 
 Add a few paragraphs with a full description of the product's journey, including:
 
-How long this project took
+-How long this project took
 
-Purpose of the project (Was this app meant to solve a problem? Was this a side project to get a better handle on a programming concept?)
+-Purpose of the project (Was this app meant to solve a problem? Was this a side project to get a better handle on a programming concept?)
 
-Whether you worked with a group and what it was like
+-Whether you worked with a group and what it was like
 
-Being honest about obstacles/challenges you faced and how you overcame them.  We all have challenges when we're learning something new!
+-Being honest about obstacles/challenges you faced and how you overcame them.  We all have challenges when we're learning something new!
 
-Bulleted list with other key learnings:
+-Bulleted list with other key learnings:
 
     * Learning 1
     * Learning 1
