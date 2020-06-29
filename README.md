@@ -1,5 +1,7 @@
 ## Project Name & Description
 
+Sample README boilerplate for personal projects.
+
 #### Your name for the project
 
 Short, 1-2 sentence description of what the app does and the key technologies/languages you used.
