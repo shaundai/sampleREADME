@@ -1,10 +1,16 @@
 ## Project Name & Description
 
-Sample README boilerplate for personal projects.
+Sample README boilerplate for personal projects being used for job and hackathon applications.
 
 #### Your name for the project
 
 Short, 1-2 sentence description of what the app does and the key technologies/languages you used.
+
+#### Installation Instructions
+
+Add dependencies (and instructions for installing the dependencies or links to external locations to install dependencies)
+Add scripts users can quickly copy and paste to install your app
+List any "gotchas", common questions, potential issues that users could run into.
 
 #### Live project
 
